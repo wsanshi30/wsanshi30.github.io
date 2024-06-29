@@ -5,11 +5,41 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Site Settings
+# Basic Site Settings
+locale                   : "en-US"
 title                    : "Wang Tao"
-description              : "Be an excellent man"
+title_separator          : "-"
+name                     : &name "Wang Tao"
+description              : &description "personal description"
+url                      : https://wsanshi30/wsanshi30.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wsanshi30/wsanshi30.github.io"
 google_scholar_stats_use_cdn : false
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "profile6.png"
+  name             : "Wang Tao"
+  pronouns         : # example: "she/her"  
+  bio              : "Be an excellent man"
+  location         : "Chongqing"
+  employer         : "Southwest University"
+  uri              : # URL
+  email            : "wangtao_psych@hotmail.com" 
+
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  impactstory      : # URL
+  orcid            : # "https://orcid.org/my-orcid?orcid=0000-0003-1257-1444"
+  semantic         : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Wang-Tao-97"
+
+
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,14 +51,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wang Tao"
-  avatar           : "images/profile6.png"
+  name             : # "Wang Tao"
+  avatar           : # "images/profile6.png"
   bio              : # "Huazhong university of science and technology"
-  location         : "Chongqing, China"
+  location         : # "Chongqing, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "wangtao_psych@hotmail.com"
+  email            : # "wangtao_psych@hotmail.com"
   researchgate     : # "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -37,7 +67,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wsanshi30"
+  github           : # "wsanshi30"
   google_plus      :
   keybase          :
   instagram        :
