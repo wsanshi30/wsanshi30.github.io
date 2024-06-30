@@ -43,7 +43,7 @@ I am a master's student in the [Faculty of Psychology at Southwest University](h
 # 📝 Publications 
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MDD and Social Decision-Making </div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MDD and Social Decision-Making </div><img src='images/MDD&SDM.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Wang Tao**, Zeng Jianmin, Peng Peiru, & Yin Qiao. (2024). Social decision-making in major depressive disorder: A three-level meta-analysis. Journal of Psychiatric Research, 176, 293-303. (CiteScore Rank:Q1; JCR:Q1)
@@ -53,11 +53,15 @@ I am a master's student in the [Faculty of Psychology at Southwest University](h
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DBH gene,thalumus, and endowment effect</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DBH gene,thalumus, and endowment effect</div><img src='images/DBHgene.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Wang Tao**, Zeng Jianmin, Huang Weijie, Xiong Xiong, & Su Li. (2024). Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect. Behavioural Brain Research, 469, 115050. (CiteScore Rank:Q2; JCR:Q2) 
-[[HTML]](https://doi.org/https://doi.org/10.1016/j.bbr.2024.115050 )[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-05.pdf) [[PDF]](/pdf/WangT-2024-05.pdf)
+[[HTML]](https://doi.org/https://doi.org/10.1016/j.bbr.2024.115050
+        
+        
+        
+         )[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-05.pdf) [[PDF]](/pdf/WangT-2024-05.pdf)
 
 
 </div>
