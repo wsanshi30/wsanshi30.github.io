@@ -1,4 +1,5 @@
-![skills](https://github.com/wsanshi30/wsanshi30.github.io/assets/173775367/64687e91-73b0-4b00-8b5b-d3f4340e7645)---
+
+---
 permalink: /
 title: ""
 excerpt: ""
