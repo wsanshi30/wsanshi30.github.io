@@ -89,7 +89,7 @@ I am a master's student in the [Faculty of Psychology at Southwest University](h
 &nbsp;
 &nbsp;       
 
-# 💡 Skill
+# 💡 Skills
 - Experienced in R programming: 
   - Skilled in data manipulation using dplyr and data.table
   - Experienced in data visualization with ggplot2
