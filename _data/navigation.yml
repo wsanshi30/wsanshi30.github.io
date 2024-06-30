@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-News"
+    url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Skills"
-    url: "/#-Skills"
+    url: "/#-skills"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -19,4 +19,4 @@ main:
     url: "/#-educations"
 
   - title: "Future Plans"
-    url: "/#-Future Plans"
+    url: "/#-future-plans"
