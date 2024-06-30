@@ -1,4 +1,4 @@
----
+![skills](https://github.com/wsanshi30/wsanshi30.github.io/assets/173775367/64687e91-73b0-4b00-8b5b-d3f4340e7645)---
 permalink: /
 title: ""
 excerpt: ""
@@ -68,41 +68,65 @@ I am a master's student in the [Faculty of Psychology at Southwest University](h
 [[HTML]](https://doi.org/https://doi.org/10.1016/j.jpsychires.2024.06.026)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/Wangt-2024-06.pdf) [[PDF]](/pdf/Wangt-2024-06.pdf)
 
 -	**Wang Tao**, Zeng Jianmin, Huang Weijie, Xiong Xiong, & Su Li. (2024). Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect. Behavioural Brain Research, 469, 115050. (CiteScore Rank:Q2; JCR:Q2) 
-[[HTML]](https://doi.org/https://doi.org/10.1016/j.bbr.2024.115050 )[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-05.pdf) [[PDF]](/pdf/WangT-2024-05.pdf)
+[[HTML]](https://doi.org/https://doi.org/10.1016/j.bbr.2024.115050
+        
+         )[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-05.pdf) [[PDF]](/pdf/WangT-2024-05.pdf)
 
 -	**Wang Tao**, Zeng Jianmin, Yuan Yujie, He Ying, Zhu Jiayi, Lin Beitong, Yin Qiao, & Peng Peiru. (2024). Exploring the complex relationship between depression and risky decision-making: A meta-analysis. Journal of Affective Disorders Reports, 16, 100771. (CiteScore Rank:Q2)  
 [[HTML]](https://doi.org/https://doi.org/10.1016/j.jadr.2024.100771)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-04.pdf) [[PDF]](/pdf/WangT-2024-04.pdf)
 
 - Zeng Jianmin, Yuan Yujie, Gao Ziyun, He Ying, **Wang Tao**, & Xu Jie (2023). The final step effect. Judgment and Decision Making, 18.(CiteScore Rank:Q2; JCR:Q2) 
-[[HTML]](https://doi.org/10.1017/jdm.2022.4 )[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/YuanYJ-2023-06.pdf) [[PDF]](/pdf/YuanYJ-2023-06.pdf)
+[[HTML]](https://doi.org/10.1017/jdm.2022.4
+        
+         )[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/YuanYJ-2023-06.pdf) [[PDF]](/pdf/YuanYJ-2023-06.pdf)
 
 - Zeng Jianmin, He Ying, Xing Ye, **Wang Tao**, & Gao Ziyun (2023). The negative effect of advertisement signs on consumers' willingness to purchase. Social Behavior and Personality, 51(12). (CiteScore Rank:Q3; JCR:Q4) 
-[[HTML]](https://doi.org/10.2224/sbp.12288 )[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/HeY-2023-12.pdf) [[PDF]](/pdf/HeY-2023-12.pdf)      
+[[HTML]](https://doi.org/10.2224/sbp.12288
+        
+         )[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/HeY-2023-12.pdf) [[PDF]](/pdf/HeY-2023-12.pdf)      
         
         
-        
-        
-  
+&nbsp;
+&nbsp;       
 
-# 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
+# 💡 Skill
+- Experienced in R programming: 
+  - Skilled in data manipulation using dplyr and data.table
+  - Experienced in data visualization with ggplot2
+  - Competent in statistical analysis and modeling with packages such as lm, glm, and lme4
+  - Familiar with data cleaning and transformation using tidyr and stringr
+  - Knowledgeable in writing custom functions and scripts to automate data processing tasks
+  - Capable of using RMarkdown for reproducible research and dynamic reporting
+
+- Experienced in Meta-analysis:
+  - Conducting systematic reviews and literature searches
+  - Extracting and coding data from multiple studies
+  - Applying statistical techniques to combine results using meta, metafor, and metaSEM packages
+  - Assessing heterogeneity and publication bias
+  - Creating forest plots, funnel plots, and other visualizations to present findings
+  - Writing comprehensive reports and manuscripts detailing the methodology and results of meta-analyses
+
+&nbsp;
+&nbsp; 
 
 
 # 🏅 Honors and Awards
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
-- *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
+- 2022 Win the '1st Price' of graduate scholoarship at Southwest University                                     
+- 2017 Win National Encouragement Scholarship at Guangzhou University of Chinese Medicine                    
+- 2017 Win First price in the provincial comprehensive simulation competition of 2017 Learning Entrepreneurship Cup                                                                    
 
-# 💬 Conferences
+&nbsp;
+&nbsp; 
 
-- *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
-- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
-- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
+# 🎓 Educations 
+- *2020.09 - 2023.06*, [Faculty of Psychology, Southwest University](http://psy.swu.edu.cn/#), Chognqing China. 
+- *2014.09 - 2018.06*, [School of Public Health and Management, Guangzhou University of Chinese Medicine](https://sphm.gzucm.edu.cn/ggwsyglen/), Guangzhou China.
+- *2011.09 - 2014.06*, [Bozhou No. 1 High School](https://www.bzyzh.com/),Bozhou China.
 
 
-# 🏭 Internships
-- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
-- *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
-- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
+
+# ⏳ Future Plans
+- Complete the response to reviewers for the paper "The Seller's Cost Effect" by August
+- Finish writing the current paper and submit it by September
+
   
