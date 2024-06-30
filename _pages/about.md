@@ -47,7 +47,6 @@ I am a master's student in the [Faculty of Psychology at Southwest University](h
 
 -	**Wang Tao**, Zeng Jianmin, Peng Peiru, & Yin Qiao. (2024). Social decision-making in major depressive disorder: A three-level meta-analysis. Journal of Psychiatric Research, 176, 293-303. (CiteScore Rank:Q1; JCR:Q1)
 [[HTML]](https://doi.org/https://doi.org/10.1016/j.jpsychires.2024.06.026)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/Wangt-2024-06.pdf) [[PDF]](/pdf/Wangt-2024-06.pdf)
-
 &nbsp;
 - **Main finding:** MDD patients exhibited a significant reduction in trust, no significant difference in altruistic punishment, and an increase in cooperative behaviors compared to HCs. The moderation analysis revealed that age and region significantly moderated altruistic punishment. Additionally, age, years of education, and treatment coverage significantly moderated cooperation.
 
@@ -59,7 +58,6 @@ I am a master's student in the [Faculty of Psychology at Southwest University](h
 
 -	**Wang Tao**, Zeng Jianmin, Huang Weijie, Xiong Xiong, & Su Li. (2024). Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect. Behavioural Brain Research, 469, 115050. (CiteScore Rank:Q2; JCR:Q2) 
 [[HTML]](https://doi.org/https://doi.org/10.1016/j.bbr.2024.115050)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-05.pdf) [[PDF]](/pdf/WangT-2024-05.pdf)
-
 &nbsp;
 - **Main finding:** Right thalamus volume mediated the effect of rs1611115 on the endowment effect in male participants
 
