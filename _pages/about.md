@@ -32,8 +32,8 @@ I am a master's student in the [Faculty of Psychology at Southwest University](h
 &nbsp;
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Tao Wang published an article as the first author in the ***Journal of Psychiatric Research*** (JCR:Q1). 
-- *2024.05*: &nbsp;🎉🎉 Tao Wang published an article as the first author in the ***Behavioural Brain Research*** (JCR:Q2). 
+- *2024.06*: &nbsp;🎉🎉🎉 Tao Wang published an article as the first author in the ***Journal of Psychiatric Research*** (JCR:Q1). 
+- *2024.05*: &nbsp;🎉🎉🎉 Tao Wang published an article as the first author in the ***Behavioural Brain Research*** (JCR:Q2). 
 
 &nbsp;
 &nbsp;
@@ -49,7 +49,7 @@ I am a master's student in the [Faculty of Psychology at Southwest University](h
 [[HTML]](https://doi.org/https://doi.org/10.1016/j.jpsychires.2024.06.026)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/Wangt-2024-06.pdf) [[PDF]](/pdf/Wangt-2024-06.pdf)
 
 &nbsp;
-**Main finding:** MDD patients exhibited a significant reduction in trust, no significant difference in altruistic punishment, and an increase in cooperative behaviors compared to HCs. 
+- **Main finding:** MDD patients exhibited a significant reduction in trust, no significant difference in altruistic punishment, and an increase in cooperative behaviors compared to HCs. The moderation analysis revealed that age and region significantly moderated altruistic punishment. Additionally, age, years of education, and treatment coverage significantly moderated cooperation.
 
 </div>
 </div>
@@ -61,7 +61,7 @@ I am a master's student in the [Faculty of Psychology at Southwest University](h
 [[HTML]](https://doi.org/https://doi.org/10.1016/j.bbr.2024.115050)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-05.pdf) [[PDF]](/pdf/WangT-2024-05.pdf)
 
 &nbsp;
-**Main finding:** Right thalamus volume mediated the effect of rs1611115 on the endowment effect in male participants
+- **Main finding:** Right thalamus volume mediated the effect of rs1611115 on the endowment effect in male participants
 
 </div>
 </div>
