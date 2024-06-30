@@ -68,22 +68,16 @@ I am a master's student in the [Faculty of Psychology at Southwest University](h
 [[HTML]](https://doi.org/https://doi.org/10.1016/j.jpsychires.2024.06.026)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/Wangt-2024-06.pdf) [[PDF]](/pdf/Wangt-2024-06.pdf)
 
 -	**Wang Tao**, Zeng Jianmin, Huang Weijie, Xiong Xiong, & Su Li. (2024). Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect. Behavioural Brain Research, 469, 115050. (CiteScore Rank:Q2; JCR:Q2) 
-[[HTML]](https://doi.org/https://doi.org/10.1016/j.bbr.2024.115050
-        
-         )[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-05.pdf) [[PDF]](/pdf/WangT-2024-05.pdf)
+[[HTML]](https://doi.org/https://doi.org/10.1016/j.bbr.2024.115050)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-05.pdf) [[PDF]](/pdf/WangT-2024-05.pdf)
 
 -	**Wang Tao**, Zeng Jianmin, Yuan Yujie, He Ying, Zhu Jiayi, Lin Beitong, Yin Qiao, & Peng Peiru. (2024). Exploring the complex relationship between depression and risky decision-making: A meta-analysis. Journal of Affective Disorders Reports, 16, 100771. (CiteScore Rank:Q2)  
 [[HTML]](https://doi.org/https://doi.org/10.1016/j.jadr.2024.100771)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-04.pdf) [[PDF]](/pdf/WangT-2024-04.pdf)
 
 - Zeng Jianmin, Yuan Yujie, Gao Ziyun, He Ying, **Wang Tao**, & Xu Jie (2023). The final step effect. Judgment and Decision Making, 18.(CiteScore Rank:Q2; JCR:Q2) 
-[[HTML]](https://doi.org/10.1017/jdm.2022.4
-        
-         )[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/YuanYJ-2023-06.pdf) [[PDF]](/pdf/YuanYJ-2023-06.pdf)
+[[HTML]](https://doi.org/10.1017/jdm.2022.4)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/YuanYJ-2023-06.pdf) [[PDF]](/pdf/YuanYJ-2023-06.pdf)
 
 - Zeng Jianmin, He Ying, Xing Ye, **Wang Tao**, & Gao Ziyun (2023). The negative effect of advertisement signs on consumers' willingness to purchase. Social Behavior and Personality, 51(12). (CiteScore Rank:Q3; JCR:Q4) 
-[[HTML]](https://doi.org/10.2224/sbp.12288
-        
-         )[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/HeY-2023-12.pdf) [[PDF]](/pdf/HeY-2023-12.pdf)      
+[[HTML]](https://doi.org/10.2224/sbp.12288)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/HeY-2023-12.pdf) [[PDF]](/pdf/HeY-2023-12.pdf)      
         
         
 &nbsp;
