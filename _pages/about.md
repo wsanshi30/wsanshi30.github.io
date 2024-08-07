@@ -71,7 +71,7 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/DBHgene.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/RiskyDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Tao Wang**, Jianmin Zeng, Yujie Yuan, Ying He, Jiayi Zhu, Beitong Lin, Qiao Yin, & Peiru Peng. (2024). Exploring the complex relationship between depression and risky decision-making: A meta-analysis. Journal of Affective Disorders Reports, 16, 100771.  
