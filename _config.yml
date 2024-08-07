@@ -46,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  CV               : "https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/Resume.pdf"
+  CV               : # "https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/Resume.pdf"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
