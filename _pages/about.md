@@ -19,7 +19,7 @@ redirect_from:
 
 #  About me
 
-I am a master's student in the [Faculty of Psychology at Southwest University](http://psy.swu.edu.cn/#), studying under [Assoc. Prof. Jianmin Zeng](http://psy.swu.edu.cn/info/1035/1478.htm), and I have obtained a master's degree in psychology. During my master's studies, I extensively reviewed the literature and actively conducted experiments. To date, I have published articles as the first author in the ***Journal of Psychiatric Research*** (JCR: Q1) and ***Behavioural Brain Research*** (JCR: Q2).
+My name is Tao Wang, and I am from Anhui. Under the guidance of [Assoc. Prof. Jianmin, Zeng](http://psy.swu.edu.cn/info/1035/1478.htm), I earned my Master's degree in [Psychology from Southwest University](http://psy.swu.edu.cn/#) ([Top-5 psychological department in China](https://research.com/university-rankings/psychology/cn)). During my graduate studies, with the support of Professor Zeng, I collaborated with researchers such as [Weijie Huang](https://www.researchgate.net/profile/Weijie-Huang-9) and [Li Su](https://www.researchgate.net/profile/Li-Su-10), culminating in the publication of our article titled “[Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect](https://www.sciencedirect.com/science/article/abs/pii/S0166432824002067?via%3Dihub)” in *Behavioural Brain Research* [***JCR: Q2; CiteScore: Q2***]. Additionally, I acquired expertise in advanced techniques like meta-analysis, which I applied to successfully complete two research papers published in the *Journal of Psychiatric Research* [***JCR: Q1; CiteScore: Q1***] and the *Journal of Affective Disorders Reports* [CiteScore: Q2], respectively.
 
 **My research interest includes:**
 - Decision-making
