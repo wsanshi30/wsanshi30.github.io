@@ -83,7 +83,7 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/DBHgene.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/Fstep.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Jianmin Zeng, Yujie Yuan, Ziyun Gao, Ying He, **Tao Wang**, & Jie Xu. (2023). The final step effect. Judgment and Decision Making, 18, e4.  
@@ -93,7 +93,7 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/DBHgene.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/Neg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Jianmin Zeng, Ying He, Xing Ye, Tao Wang, & Ziyun Gao. (2023). The negative effect of advertisement signs on consumers' willingness to purchase. Social Behavior and Personality: an international journal, 51(12), e12288. 
@@ -101,7 +101,10 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
 - Journal Information: IF: 2.2 (Q3); IF: 1 (Q4)
 - Brief Introduction: Advertisements (ads) are intended to increase individuals' willingness to purchase and are usually expensive; thus, it would be counterproductive if an ad element actually decreased willingness to purchase. However, our study revealed that advertising signs on online shopping platforms decrease consumers' willingness to purchase, recommend, or click on products. These findings underscore the importance of understanding consumer psychology and suggest reevaluating the use of ad signs to avoid counterproductive effects in online advertising strategies. 
 
-       
+</div>
+</div>
+---
+
 &nbsp;
 &nbsp;       
 
