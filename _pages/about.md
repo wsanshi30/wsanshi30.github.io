@@ -138,22 +138,22 @@ In my published meta-analysis articles, both employed frequentist meta-analysis 
 
 
 # 🏅 Honors and Awards
-- 2022 Win the '1st Price' of graduate scholoarship at Southwest University                                     
+- 2022 Win the '1st Prize' of graduate scholoarship at Southwest University                                     
 - 2017 Win National Encouragement Scholarship at Guangzhou University of Chinese Medicine                    
-- 2017 Win First price in the provincial comprehensive simulation competition of 2017 Learning Entrepreneurship Cup                                                                    
+- 2017 Win First prize in the provincial comprehensive simulation competition of 2017 Learning Entrepreneurship Cup                                                                    
 
 &nbsp;
 &nbsp; 
 
 # 🎓 Educations 
 - *2020.09 - 2023.06*, [Faculty of Psychology, Southwest University](http://psy.swu.edu.cn/#), Chognqing China.
-  - Degree: Master in Psychology (GPA: 4.02) [[Academic Records]](/pdf/YuanYJ-2023-06.pdf)                                                            Sep 2020 – July 2023
+  - Degree: Master in Psychology (GPA: 4.02) [[Academic Records]](/pdf/GradEngRecords.pdf)                                                            Sep 2020 – July 2023
   - Relevant Coursework (score):
     Advances in Contemporary Psychology (95); Experimental Psychology (96); Meta-analysis Techniques (91); Advances in Social Cognitive Neuroscience Research (88);
     Statistics in Psychology and Education (83)
 
 - *2014.09 - 2018.06*, [School of Public Health and Management, Guangzhou University of Chinese Medicine](https://sphm.gzucm.edu.cn/ggwsyglen/), Guangzhou China.
-  - Degree: B.A. in Management (GPA: 3.52) [[Academic Records]](/pdf/YuanYJ-2023-06.pdf)                                                              Sep 2014 – July 2018
+  - Degree: B.A. in Management (GPA: 3.52) [[Academic Records]](/pdf/BechlorChiRecords.pdf)                                                              Sep 2014 – July 2018
   - Relevant Coursework (score):
     International Marketing (90.2); Services Marketing (90); Sales Management (94); Customer Relationship Management (93); Organizational Behavior (87.4); Advertising (90);
     Introduction to Western Medicine (91.5)
