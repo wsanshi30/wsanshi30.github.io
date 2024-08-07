@@ -61,41 +61,60 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/DBHgene.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Wang Tao**, Zeng Jianmin, Huang Weijie, Xiong Xiong, & Su Li. (2024). Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect. Behavioural Brain Research, 469, 115050. (CiteScore Rank:Q2; JCR:Q2) 
+-	**Tao Wang**, Jianmin Zeng, Weijie Huang, Xiong Xiong, & Li Su. (2024). Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect. *Behavioural Brain Research*, 469, 115050. 
 [[HTML]](https://doi.org/https://doi.org/10.1016/j.bbr.2024.115050)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-05.pdf) [[PDF]](/pdf/WangT-2024-05.pdf)
 &nbsp;
-- **Main finding:** Right thalamus volume mediated the effect of rs1611115 on the endowment effect in male participants
+- **Journal Information:** CiteScore: 5.6 (Q2); IF: 2.6 (Q2)
+- **Brief Introduction:** Adaptive behavior in human through our live course is a direct result of the brain, but emerging evidence suggests that genes also introduce bias in behavior. Here, we showed that the interplay between thalamus and dopamine beta-hydroxylase gene jointly determined the endowment effect. Adaptive behavior in human through our live course is a direct result of the brain, but emerging evidence suggests that genes also introduce bias in behavior. Here, we showed that the interplay between thalamus and dopamine beta-hydroxylase gene jointly determined the endowment effect. 
+
 
 </div>
 </div>
 
--	**Wang Tao**, Zeng Jianmin, Peng Peiru, & Yin Qiao. (2024). Social decision-making in major depressive disorder: A three-level meta-analysis. Journal of Psychiatric Research, 176, 293-303. (CiteScore Rank:Q1; JCR:Q1)
-[[HTML]](https://doi.org/https://doi.org/10.1016/j.jpsychires.2024.06.026)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/Wangt-2024-06.pdf) [[PDF]](/pdf/Wangt-2024-06.pdf)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/DBHgene.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
--	**Wang Tao**, Zeng Jianmin, Huang Weijie, Xiong Xiong, & Su Li. (2024). Right thalamic volume mediates impact of the dopamine beta-hydroxylase gene on the endowment effect. Behavioural Brain Research, 469, 115050. (CiteScore Rank:Q2; JCR:Q2) 
-[[HTML]](https://doi.org/https://doi.org/10.1016/j.bbr.2024.115050)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-05.pdf) [[PDF]](/pdf/WangT-2024-05.pdf)
-
--	**Wang Tao**, Zeng Jianmin, Yuan Yujie, He Ying, Zhu Jiayi, Lin Beitong, Yin Qiao, & Peng Peiru. (2024). Exploring the complex relationship between depression and risky decision-making: A meta-analysis. Journal of Affective Disorders Reports, 16, 100771. (CiteScore Rank:Q2)  
+-	**Tao Wang**, Jianmin Zeng, Yujie Yuan, Ying He, Jiayi Zhu, Beitong Lin, Qiao Yin, & Peiru Peng. (2024). Exploring the complex relationship between depression and risky decision-making: A meta-analysis. Journal of Affective Disorders Reports, 16, 100771.  
 [[HTML]](https://doi.org/https://doi.org/10.1016/j.jadr.2024.100771)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-04.pdf) [[PDF]](/pdf/WangT-2024-04.pdf)
+- **Journal Information:** CiteScore: 3.8 (Q2)
+- **Brief Introduction:** Individuals with Major Depressive Disorder (MDD) frequently engage in risky behaviors, such as self-harm and suicide, but its effect on risky economic decision-making remains unclear. Our study found that MDD patients perform differently across tasks: they select disadvantageous decks in the Iowa Gambling Task, make fewer pumps on the Balloon Analog Risk Task, and perform similarly to healthy controls in the Cambridge Gambling Task and the Game of Dice Task. These findings reveal how MDD influences economic decisions, highlighting the need for targeted interventions to mitigate risky behaviors. 
 
-- Zeng Jianmin, Yuan Yujie, Gao Ziyun, He Ying, **Wang Tao**, & Xu Jie (2023). The final step effect. Judgment and Decision Making, 18.(CiteScore Rank:Q2; JCR:Q2) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/DBHgene.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Jianmin Zeng, Yujie Yuan, Ziyun Gao, Ying He, **Tao Wang**, & Jie Xu. (2023). The final step effect. Judgment and Decision Making, 18, e4.  
 [[HTML]](https://doi.org/10.1017/jdm.2022.4)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/YuanYJ-2023-06.pdf) [[PDF]](/pdf/YuanYJ-2023-06.pdf)
+- **Journal Information:** the official journal of the Society for Judgment and Decision Making (SJDM) and the European Association for Decision Making (EADM); CiteScore: 4.4 (Q2); IF: 1.9 (Q2);
 
-- Zeng Jianmin, He Ying, Xing Ye, **Wang Tao**, & Gao Ziyun (2023). The negative effect of advertisement signs on consumers' willingness to purchase. Social Behavior and Personality, 51(12). (CiteScore Rank:Q3; JCR:Q4) 
-[[HTML]](https://doi.org/10.2224/sbp.12288)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/HeY-2023-12.pdf) [[PDF]](/pdf/HeY-2023-12.pdf)      
-        
-        
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/DBHgene.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Jianmin Zeng, Ying He, Xing Ye, Tao Wang, & Ziyun Gao. (2023). The negative effect of advertisement signs on consumers' willingness to purchase. Social Behavior and Personality: an international journal, 51(12), e12288. 
+[[HTML]](https://doi.org/10.2224/sbp.12288)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/HeY-2023-12.pdf) [[PDF]](/pdf/HeY-2023-12.pdf)
+- Journal Information: IF: 2.2 (Q3); IF: 1 (Q4)
+- Brief Introduction: Advertisements (ads) are intended to increase individuals' willingness to purchase and are usually expensive; thus, it would be counterproductive if an ad element actually decreased willingness to purchase. However, our study revealed that advertising signs on online shopping platforms decrease consumers' willingness to purchase, recommend, or click on products. These findings underscore the importance of understanding consumer psychology and suggest reevaluating the use of ad signs to avoid counterproductive effects in online advertising strategies. 
+
+       
 &nbsp;
 &nbsp;       
 
 # 💡 Skills
-- Experienced in R programming: 
-  - Skilled in data manipulation using dplyr and data.table
-  - Experienced in data visualization with ggplot2
-  - Competent in statistical analysis and modeling with packages such as lm, glm, and lme4
-  - Familiar with data cleaning and transformation using tidyr and stringr
-  - Knowledgeable in writing custom functions and scripts to automate data processing tasks
-  - Capable of using RMarkdown for reproducible research and dynamic reporting
+- Experienced in R programming:
+  - Skilled in data manipulation using dplyr and tidyverse;
+  - Experienced in data visualization with ggplot2;
+  - Competent in statistical analysis and modeling with packages such as lm, glm, and lme4;
+  - Knowledgeable in writing custom functions and scripts to automate data processing tasks;
+  - Capable of using RMarkdown for reproducible research and dynamic reporting;
+
+In my academic research, R has been the primary tool for data analysis, enabling me to complete the data analysis and visualizations for my publications.
+
 
 - Experienced in Meta-analysis:
   - Conducting systematic reviews and literature searches
@@ -104,6 +123,12 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
   - Assessing heterogeneity and publication bias
   - Creating forest plots, funnel plots, and other visualizations to present findings
   - Writing comprehensive reports and manuscripts detailing the methodology and results of meta-analyses
+
+In my published meta-analysis articles, both employed frequentist meta-analysis methods, with one specifically using a three-level meta-analysis. Additionally, I am currently utilizing Bayesian meta-analysis for my upcoming research.
+
+- Experienced in SPSS；
+- Experienced in E-Prime;
+- Experienced in Bibliometrics
 
 &nbsp;
 &nbsp; 
