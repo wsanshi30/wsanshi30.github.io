@@ -75,7 +75,7 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/RiskyDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Tao Wang**, Jianmin Zeng, Yujie Yuan, Ying He, Jiayi Zhu, Beitong Lin, Qiao Yin, & Peiru Peng. (2024). Exploring the complex relationship between depression and risky decision-making: A meta-analysis. Journal of Affective Disorders Reports, 16, 100771.  
+-	**Tao Wang**, Jianmin Zeng, Yujie Yuan, Ying He, Jiayi Zhu, Beitong Lin, Qiao Yin, & Peiru Peng. (2024). Exploring the complex relationship between depression and risky decision-making: A meta-analysis. *Journal of Affective Disorders Reports*, 16, 100771.  
 [[HTML]](https://doi.org/https://doi.org/10.1016/j.jadr.2024.100771)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/WangT-2024-04.pdf) [[PDF]](/pdf/WangT-2024-04.pdf)
 - **Journal Information:** CiteScore: 3.8 (Q2)
 - **Brief Introduction:** Individuals with Major Depressive Disorder (MDD) frequently engage in risky behaviors, such as self-harm and suicide, but its effect on risky economic decision-making remains unclear. Our study found that MDD patients perform differently across tasks: they select disadvantageous decks in the Iowa Gambling Task, make fewer pumps on the Balloon Analog Risk Task, and perform similarly to healthy controls in the Cambridge Gambling Task and the Game of Dice Task. These findings reveal how MDD influences economic decisions, highlighting the need for targeted interventions to mitigate risky behaviors. 
@@ -87,7 +87,7 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/Fstep.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Jianmin Zeng, Yujie Yuan, Ziyun Gao, Ying He, **Tao Wang**, & Jie Xu. (2023). The final step effect. Judgment and Decision Making, 18, e4.  
+- Jianmin Zeng, Yujie Yuan, Ziyun Gao, Ying He, **Tao Wang**, & Jie Xu. (2023). The final step effect. *Judgment and Decision Making*, 18, e4.  
 [[HTML]](https://doi.org/10.1017/jdm.2022.4)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/YuanYJ-2023-06.pdf) [[PDF]](/pdf/YuanYJ-2023-06.pdf)
 - **Journal Information:** the official journal of the Society for Judgment and Decision Making (SJDM) and the European Association for Decision Making (EADM); CiteScore: 4.4 (Q2); IF: 1.9 (Q2);
 
@@ -97,7 +97,7 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/Neg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Jianmin Zeng, Ying He, Xing Ye, Tao Wang, & Ziyun Gao. (2023). The negative effect of advertisement signs on consumers' willingness to purchase. Social Behavior and Personality: an international journal, 51(12), e12288. 
+- Jianmin Zeng, Ying He, Xing Ye, Tao Wang, & Ziyun Gao. (2023). The negative effect of advertisement signs on consumers' willingness to purchase. *Social Behavior and Personality: an international journal*, 51(12), e12288. 
 [[HTML]](https://doi.org/10.2224/sbp.12288)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/HeY-2023-12.pdf) [[PDF]](/pdf/HeY-2023-12.pdf)
 - Journal Information: IF: 2.2 (Q3); IF: 1 (Q4)
 - Brief Introduction: Advertisements (ads) are intended to increase individuals' willingness to purchase and are usually expensive; thus, it would be counterproductive if an ad element actually decreased willingness to purchase. However, our study revealed that advertising signs on online shopping platforms decrease consumers' willingness to purchase, recommend, or click on products. These findings underscore the importance of understanding consumer psychology and suggest reevaluating the use of ad signs to avoid counterproductive effects in online advertising strategies. 
