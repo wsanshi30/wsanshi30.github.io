@@ -29,8 +29,9 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
 - Neuroeconomics
 - Mental disorders
 - Meta-analysis
+
 &nbsp;
-Click [here]() to view my CV
+Click [here](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/Resume.pdf) to view my CV.
 
 &nbsp;
 &nbsp;
