@@ -34,8 +34,9 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
 &nbsp;
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉🎉 Tao Wang published an article as the first author in the ***Journal of Psychiatric Research*** (JCR:Q1). 
-- *2024.05*: &nbsp;🎉🎉🎉 Tao Wang published an article as the first author in the ***Behavioural Brain Research*** (JCR:Q2). 
+- *2024.08*: &nbsp;🎉🎉🎉 Tao Wang published an article as the first author in the ***Journal of Psychiatric Research*** (JCR:Q1; CiteScore: Q1). 
+- *2024.07*: &nbsp;🎉🎉🎉 Tao Wang published an article as the first author in the ***Behavioural Brain Research*** (JCR:Q2; CiteScore: Q2).
+- *2024.04*: &nbsp;🎉🎉🎉 Tao Wang published an article as the first author in the ***Journal of Affective Disorders Reports*** (CiteScore: Q2).
 
 &nbsp;
 &nbsp;
@@ -47,10 +48,12 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/MDD&SDM.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Wang Tao**, Zeng Jianmin, Peng Peiru, & Yin Qiao. (2024). Social decision-making in major depressive disorder: A three-level meta-analysis. Journal of Psychiatric Research, 176, 293-303. (CiteScore Rank:Q1; JCR:Q1)
+-	**Tao Wang**, Jianmin Zeng, Peiru Peng, & Qiao Yin. (2024). Social decision-making in major depressive disorder: A three-level meta-analysis. *Journal of Psychiatric Research*, 176, 293-303. 
 [[HTML]](https://doi.org/https://doi.org/10.1016/j.jpsychires.2024.06.026)[[Preview]](https://github.com/wsanshi30/wsanshi30.github.io/blob/main/pdf/Wangt-2024-06.pdf) [[PDF]](/pdf/Wangt-2024-06.pdf)
 &nbsp;
-- **Main finding:** MDD patients exhibited a significant reduction in trust, no significant difference in altruistic punishment, and an increase in cooperative behaviors compared to HCs. The moderation analysis revealed that age and region significantly moderated altruistic punishment. Additionally, age, years of education, and treatment coverage significantly moderated cooperation.
+- **Journal Information**: CiteScore: 7.3 (Q1); IF: 3.7 (Q1)
+- **Brief Introduction:** Major Depressive Disorder (MDD) is frequently associated with social dysfunction and impaired decision-making, but its impact on social decisions remains unclear. Our meta-analytic study reveals that MDD significantly impacts social decision-making, manifesting as reduced trust and increased cooperation, with these effects moderated by demographic and treatment variables. These findings emphasize the necessity for tailored therapeutic approaches that consider individual differences in age, education, and treatment coverage, to enhance social functionality and outcomes for MDD patients. 
+
 
 </div>
 </div>
