@@ -116,8 +116,10 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
   - Knowledgeable in writing custom functions and scripts to automate data processing tasks;
   - Capable of using RMarkdown for reproducible research and dynamic reporting;
 
-In my academic research, R has been the primary tool for data analysis, enabling me to complete the data analysis and visualizations for my publications.
+    In my academic research, R has been the primary tool for data analysis, enabling me to complete the data analysis and visualizations for my publications.
 
+&nbsp;
+&nbsp;
 
 - Experienced in Meta-analysis:
   - Conducting systematic reviews and literature searches
@@ -127,7 +129,10 @@ In my academic research, R has been the primary tool for data analysis, enabling
   - Creating forest plots, funnel plots, and other visualizations to present findings
   - Writing comprehensive reports and manuscripts detailing the methodology and results of meta-analyses
 
-In my published meta-analysis articles, both employed frequentist meta-analysis methods, with one specifically using a three-level meta-analysis. Additionally, I am currently utilizing Bayesian meta-analysis for my upcoming research.
+    In my published meta-analysis articles, both employed frequentist meta-analysis methods, with one specifically using a three-level meta-analysis. Additionally, I am currently utilizing Bayesian meta-analysis     for my upcoming research.
+
+&nbsp;
+&nbsp;
 
 - Experienced in SPSS；
 - Experienced in E-Prime;
