@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             :  "Wang Tao"
   avatar           :  "images/profile6.png"
-  bio              : # "Huazhong university of science and technology"
+  bio              :  "Southwest University"
   location         :  "Chongqing, China"
   employer         : # "Hefei General Machinery Research Institute"
   pubmed           : 
