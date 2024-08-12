@@ -169,7 +169,12 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
 
 
 # ⏳ Future Plans
-- Complete the response to reviewers for the paper "The Seller's Cost Effect" by August
-- Finish writing the current paper and submit it by September
+Over the coming years, my research will continue to focus on the intersection of decision psychology, meta-analysis, and mental illness. My main objective is to utilize advanced meta-analytical techniques to address and resolve current controversies in the study of decision-making characteristics and to explore areas that have not been sufficiently discussed in the literature. My specific plans include:
+- Application of Meta-Analysis: Using meta-analysis to systematically assess the decision-making characteristics of individuals with mental illnesses, integrating existing research results to clarify controversies and consensus within the field. 
+- Experimental Research: Based on the gaps identified through meta-analysis, I plan to design and conduct a series of experiments to test new hypotheses and theories.
+- Observation of Social Phenomena and Psychological Traits: Investigating the impact of emerging social phenomena on individual decision-making psychology.
+- Age-Related Decision Changes: Exploring how individual decision-making traits develop and change with age.
+
+This plan will be regularly updated to reflect the latest research findings and academic developments, ensuring that my research objectives remain aligned with the latest advancements in the academic community.
 
   
