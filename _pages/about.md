@@ -35,6 +35,8 @@ to our publication, "Right thalamic volume mediates impact of the dopamine beta-
 &nbsp;
 
 # 🔥 News
+- 2025.04:  🎉🎉🎉 I'm pleased to share that my manuscript, "The Seller Cost Effect," has been accepted for publication in Experimental Psychology.
+- 2025.01:  🎉🎉🎉 I was honored with the Scientific Achievement Award (10,000 RMB) by the Faculty of Psychology, Southwest University.
 - *2024.08*: &nbsp;🎉🎉🎉 Tao Wang published an article as the first author in the ***Journal of Psychiatric Research*** (JCR:Q1; CiteScore: Q1). 
 - *2024.07*: &nbsp;🎉🎉🎉 Tao Wang published an article as the first author in the ***Behavioural Brain Research*** (JCR:Q2; CiteScore: Q2).
 - *2024.04*: &nbsp;🎉🎉🎉 Tao Wang published an article as the first author in the ***Journal of Affective Disorders Reports*** (CiteScore: Q2).
